@@ -11,8 +11,8 @@ const CONFIG = {
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
+    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you X100😘😘',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    messLink: 'https://www.facebook.com/messages/t/100005444687585'
 }
